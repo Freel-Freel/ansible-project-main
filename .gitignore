@@ -1,0 +1,5 @@
+.*.swp
+inventory
+ansible.log
+vault_pass
+data/
