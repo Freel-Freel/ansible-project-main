@@ -1,5 +1,6 @@
 .*.swp
-inventory
+playbooks/*_tmp.yml
 ansible.log
 vault_pass
 data/
+roles/

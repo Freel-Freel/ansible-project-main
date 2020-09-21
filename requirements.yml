@@ -2,35 +2,3 @@
   src: ssh://git@10.21.25.60:8878/dvps/ansible-role-create_env.git
   version: master
   scm: git
-- name: git_mirror
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-git-mirror.git
-  version: master
-  scm: git
-- name: cadvisor
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-cadvisor.git
-  version: master
-  scm: git
-- name: deploy_component
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-deploy-component.git
-  version: master
-  scm: git
-- name: node_exporter
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-node_exporter
-  version: master
-  scm: git
-- name: grok_exporter
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-grok_exporter
-  version: master
-  scm: git
-- name: grafana
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-grafana
-  version: master
-  scm: git
-- name: alertmanager
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-alertmanager
-  version: master
-  scm: git
-- name: prometheus
-  src: ssh://git@10.21.25.60:8878/dvps/ansible-role-prometheus
-  version: master
-  scm: git
